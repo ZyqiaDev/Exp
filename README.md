@@ -3,7 +3,7 @@
 * /myexp | Displays how much experience you have #Exp
 * /removeexp | Remove experience from a player #Exp
 * /sellexp | Sell your experience for money #Exp
-* setexp | Remove experience from a player #Exp
+* /setexp | Remove experience from a player #Exp
 # Permissions(s)
 * addexp.command
 * removeexp.command
