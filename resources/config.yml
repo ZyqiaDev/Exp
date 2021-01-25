@@ -1,0 +1,6 @@
+---
+# If this is enabled you can use /sellexp for money
+# EconomyAPI
+Economics: "Enabled"
+MoneyPerExp: "25"
+...

@@ -1,0 +1,10 @@
+---
+# Discord: @Zyqia#9178
+name: Exp
+main: exp\Main
+author: ZyqiaTheDev
+api: 3.0.0
+version: 1.0.0
+softdepend:
+  - EconomyAPI
+...
